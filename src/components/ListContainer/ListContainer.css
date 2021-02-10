@@ -1,0 +1,10 @@
+.list-container {
+    border: 2px solid #000;
+    border-radius: 5px;
+    width: 80%;
+} 
+
+.item-container {
+    list-style-type: none;
+    padding: 0;
+}
